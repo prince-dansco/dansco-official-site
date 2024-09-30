@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import { IoMusicalNotesSharp } from "react-icons/io5";
 import PodCast from "../musicpodcast/page";
 
 export default function Services() {

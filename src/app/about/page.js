@@ -58,7 +58,7 @@ export default function About() {
             <p className="text-lg">
               DJ DANSCO knows how to move your mind, body, and soul by
               delivering tracks that stand out from the norm. As if this
-              impressive succession of high impact, floor-filling bombs wasn’t
+              impressive succession of high impact, floor-filling bombs wasn&rsquo;t
               enough to sustain
             </p>
           </div>

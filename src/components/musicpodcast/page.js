@@ -68,7 +68,7 @@ export default function PodCast() {
           <p className="p-2 md:p-7">
             DJ Dansco knows how to move your mind, body, and soul by delivering
             tracks that stand out from the norm. As if this impressive
-            succession of high-impact, floor-filling bombs wasn’t enough to
+            succession of high-impact, floor-filling bombs wasn&rsquo;t enough to
             sustain.
           </p>
           <button className="bg-orange-400 text-white py-3 px-5 rounded-lg mt-4 hover:bg-white hover:text-black"><a href="https://music.apple.com/us/artist/dj-dansco/1583023100" target='_black'> AppleSound</a>

@@ -28,7 +28,7 @@ export default function AboutIntro() {
               with its unique beats and unforgettable melodies. With every
               release, he pushes boundaries, crafting sounds that resonate on
               the dance floor and beyond. As if this impressive succession of
-              high-impact, floor-filling bombs wasn’t enough to sustain his
+              high-impact, floor-filling bombs wasn&rsquo;t enough to sustain his
               momentum.
             </p>
             <button className="mt-5 ">

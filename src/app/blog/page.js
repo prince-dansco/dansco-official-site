@@ -118,7 +118,7 @@ export default function Blog() {
                 </span>
               </a>
               <p className="mt-2 text-md text-start md:text-center">
-                In a year filled with creativity, DJ Dansco’s "Vento EP" is
+                In a year filled with creativity, DJ Dansco&rsquo;s "Vento EP" is
                 finally on the horizon. With a blend of new tracks and remixes,
                 this EP promises to offer a sonic journey that fans of
                 electronic music won't want to miss...

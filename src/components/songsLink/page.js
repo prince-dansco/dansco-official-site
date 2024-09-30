@@ -5,7 +5,7 @@ export default function SongsLink() {
     <div className='py-10'>
         <div className="">
   <h1 className="text-center text-xl md:text-2xl font-bold my-4 ">
-    Click on any of these platforms to see more of DJ Dansco's songs
+    Click on any of these platforms to see more of DJ Dansco&rsquo;s songs
   </h1>
   <div className=" px-6 md:px-[95px] grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-7 justify-center place-content-center gap-8 mt-4 ">
     <a

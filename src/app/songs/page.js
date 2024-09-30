@@ -72,7 +72,7 @@ export default function Songs() {
   return (
     <div>
       <h1 className="text-3xl font-bold mb-4 text-center">
-        List of some of DJ Dansco's songs and mixes
+        List of some of DJ Dansco&rsquo;s songs and mixes
       </h1>
 
       {/* Show loading indicator */}
