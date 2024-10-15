@@ -58,7 +58,7 @@ export default function Footer() {
           </div>
           <div className="text-center md:text-left">
             <h2 className="text-xl font-semibold">Contact Us</h2>
-            <p>(+234) 222-234-2345</p>
+            <p>(+234)  080-6012-3380</p>
             <p>name@dansco.com</p>
             <div className="flex items-center justify-center md:justify-start gap-3 mt-2">
               <a href="https://web.facebook.com/djdansco11/?_rdc=1&_rdr">
